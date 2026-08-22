@@ -1,0 +1,6 @@
+{
+  "name": "Dokumenter Sang Petani: Jejak Keputusan",
+  "description": "Pengalaman video dokumenter sinematik interaktif dan treatment sutradara berdasarkan storyboard The Rice Farmer's Decision dengan narasi bahasa Indonesia yang emosional dan tata sinematografi mendalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
